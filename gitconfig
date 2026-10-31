@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francois.papart@gmail.com
+	name = Francois Papart
